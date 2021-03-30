@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahtaron
-- 👀 I’m interested in Python, Data Structures and Algorithms
+- 👀 I’m interested in Python, Data Structures and Algorithms.
 - 🌱 I’m currently learning "Machine Learning" and "Automation".
 - 💞️ I’m looking to collaborate on software projects that make everyone's life easier.
 - 📫 Reach out to me at "usmailbox@yandex.ru"
